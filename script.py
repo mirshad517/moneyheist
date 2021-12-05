@@ -2,8 +2,14 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-I'm an advanced telegram bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+I'm Money Heist Robot എന്നിൽ നിന്നും നിങ്ങൾക്ക് money heist സീരീസ് മാത്രെമേ കിട്ടുകയുള്ളു. നിങ്ങൾ വേണ്ട പാർട്ട്‌ example part 1 എന്ന് ടൈപ്പ് ചെയ്താൽ മതി
+
+
+
+
+
+
+NB: എന്നെ ALL movies എന്ന ഗ്രൂപ്പിൽ മാത്രമേ യൂസ് ചെയ്യാൻ കഴിയൂ വെറുതെ സമയം കളയണ്ട 🤣😅
  
  @botmaker_tg
 
@@ -60,7 +66,7 @@ See <i>/help</i> for commands and more details.</b>
 
 ⭕️<b>Language   :</b> <code>Python3</code>
 
-⭕️<b>Maintenance:</b> Amal Noufal Mirshad
+⭕️<b>Maintenance:</b> Amal Mirshad
 
 ⭕️<b>Library    :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
